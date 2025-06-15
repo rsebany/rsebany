@@ -28,19 +28,6 @@ My toolkit for bringing ideas to life:
 
 ---
 
-### 🌟 Featured Projects
-
-Here are a few highlights of what I've been building:
-
-* **[Application BonApp - Restaurant Discovery & Recommendation](https://github.com/yourusername/BonApp-repo-link)** (If public, replace with actual link)
-    * A comprehensive web application with geolocation, food delivery integration, and a **personalized recommendation system powered by AI/ML**.
-* **Projet de Compétition Bancaire - Système Intelligent**
-    * **Award-winning team project** where I specialized in **AI for banking transaction analysis and falsification detection**.
-* **[Book Review RESTful API](https://github.com/yourusername/BookReviewAPI-repo-link)** (If public, replace with actual link)
-    * A robust API demonstrating secure authentication and full CRUD operations, built with Node.js and Express.js.
-
----
-
 ### 📫 Let’s Connect!
 
 I'm always excited to discuss new ideas, potential collaborations, or opportunities in AI and full-stack development.
