@@ -12,7 +12,7 @@ My toolkit for bringing ideas to life:
 * **🧠 AI/ML:** Scikit-learn, TensorFlow (foundational), Supervised ML (Regression, Classification)
 * **🌐 Web (Frontend):** React.js, HTML5, CSS/Tailwind, Bootstrap
 * **🌐 Web (Backend):** Node.js/Express, PHP/Laravel, Python/Django/Flask
-* **🗄️ Databases:** MySQL
+* **🗄️ Databases:** MySQL/MongoDB
 * **📊 Tools & Platforms:** Figma, Adobe XD, Git/GitHub, Heroku, Trello, Agile
 
 ---
