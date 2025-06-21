@@ -1,6 +1,6 @@
 # Hi 👋, I'm Romualdo Sebany
 
-🚀 **L2 Student (upcoming L3)** | 🧠 **AI Enthusiast** | 🌐 **Full-Stack Web Developer** | 🎨 **UI/UX Designer**
+🚀 **L3 Student** | 🧠 **AI Enthusiast** | 🌐 **Full-Stack Web Developer** | 🎨 **UI/UX Designer**
 
 ---
 
