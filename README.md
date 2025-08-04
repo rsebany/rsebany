@@ -10,7 +10,7 @@ My toolkit for bringing ideas to life:
 
 * **💻 Languages:** Python, JavaScript/TypeScript, PHP, HTML/CSS, SQL, Java
 * **🧠 AI/ML:** Scikit-learn, TensorFlow (foundational), Supervised ML (Regression, Classification)
-* **🌐 Web (Frontend):** React.js, HTML5, CSS/Tailwind, Bootstrap
+* **🌐 Web (Frontend):** React.js, HTML5, CSS/Tailwind, Bootstrap, Angular
 * **🌐 Web (Backend):** Node.js/Express, PHP/Laravel, Python/Django/Flask
 * **🗄️ Databases:** MySQL/MongoDB/PostGreSQL
 * **📊 Tools & Platforms:** Figma, Adobe XD, Git/GitHub, Heroku, Trello, Agile
