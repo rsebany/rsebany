@@ -34,5 +34,6 @@ I'm always excited to discuss new ideas, potential collaborations, or opportunit
 
 * **LinkedIn:** [www.linkedin.com/in/romualdo-sebany/](https://www.linkedin.com/in/romualdo-sebany/)
 * **Email:** romualdosebany@gmail.com
+* **Medium:** https://medium.com/@romualdosebany
 
 ---
