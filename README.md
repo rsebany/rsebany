@@ -1,11 +1,39 @@
-My journey in technology started with curiosity: experimenting on old computers in Madagascar to understand how they worked.
+# 👋 Hello, I'm Romualdo SEBANY
 
-What began as playful exploration quickly became a lifelong passion.
+## 🚀 About Me
 
-From my first “Hello World” to designing complex systems, every step has been an adventure in creativity, innovation, and problem-solving. Along the way, I’ve learned that technology is not just about coding or machines , it’s about solving real-world problems and shaping the future.
+My journey in technology began with curiosity — experimenting on old computers in Madagascar to understand how they worked. What started as playful exploration evolved into a lifelong passion for building and innovating.
 
-Today, I focus on AI, Deep Learning, and Extended Reality (XR), applying them across healthcare, education, and creative domains. My work combines research, development, and community-building because knowledge grows when shared. 
+From my first “Hello World” to designing intelligent systems, each step strengthened my commitment to solving complex problems through technology. I believe technology is not just about code or machines — it is about designing solutions that create real-world impact.
 
-I’m driven by a simple principle: Think forward. I aim to create solutions that not only work, but inspire, educate, and empower. 
+---
 
-I’m always excited to connect with people who share a passion for AI, XR, or collaborative research.
+## 🔬 Current Focus
+
+- 🤖 Artificial Intelligence (AI)
+- 🧠 Deep Learning
+- 🩺 Computer Vision for Healthcare
+- 🥽 Extended Reality (XR) & 3D Visualization
+- 📊 Research-driven system design
+
+I enjoy working at the intersection of research, engineering, and knowledge-sharing — because innovation grows when communities collaborate.
+
+---
+
+## 🌍 Vision
+
+> **Think forward.**
+
+I aim to build solutions that are not only technically strong, but meaningful — tools that educate, empower, and improve lives.
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaborating on:
+- AI research projects  
+- XR & immersive technologies  
+- Healthcare technology solutions  
+- Open-source initiatives  
+
+Feel free to explore my repositories and reach out!
