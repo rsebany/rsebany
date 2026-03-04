@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-My journey in technology began with curiosity — experimenting on old computers in Madagascar to understand how they worked. What started as playful exploration evolved into a lifelong passion for building and innovating.
+My journey in technology began with curiosity, experimenting on old computers in Madagascar to understand how they worked. What started as playful exploration evolved into a lifelong passion for building and innovating.
 
-From my first “Hello World” to designing intelligent systems, each step strengthened my commitment to solving complex problems through technology. I believe technology is not just about code or machines — it is about designing solutions that create real-world impact.
+From my first “Hello World” to designing intelligent systems, each step strengthened my commitment to solving complex problems through technology. I believe technology is not just about code or machines; it is about designing solutions that create real-world impact.
 
 ---
 
