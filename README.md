@@ -16,7 +16,7 @@ From my first “Hello World” to designing intelligent systems, each step stre
 - 🥽 Extended Reality (XR) & 3D Visualization
 - 📊 Research-driven system design
 
-I enjoy working at the intersection of research, engineering, and knowledge-sharing — because innovation grows when communities collaborate.
+I enjoy working at the intersection of research, engineering, and knowledge-sharing because I feel like innovation only grows when communities collaborate.
 
 ---
 
