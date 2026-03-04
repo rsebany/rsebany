@@ -24,7 +24,7 @@ I enjoy working at the intersection of research, engineering, and knowledge-shar
 
 > **Think forward.**
 
-I aim to build solutions that are not only technically strong, but meaningful — tools that educate, empower, and improve lives.
+I aim to build solutions that are not only technically strong, but meaningful tools that educate, empower, and improve lives accross our community.
 
 ---
 
