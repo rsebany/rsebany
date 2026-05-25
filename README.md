@@ -1,23 +1,39 @@
-# 👋 Romualdo SEBANY
+# 👋 Hello and Welcome !
 
-**AI Research Intern @ CDTA** | **Aspire Institute Fellow**
-📍 Algeria (Remote/On-site)
+## About Me
 
-Transforming complex volumetric data into web-native clinical experiences. I bridge the gap between **3D Deep Learning** and **Spatial Computing**.
+My journey in technology began with curiosity, experimenting on old computers in Madagascar to understand how they worked. What started as playful exploration evolved into a lifelong passion for building and innovating.
 
----
-
-### 💻 Tech Stack
-
-🤖 **AI / ML:** `PyTorch` `MONAI` `Scikit-Learn` `LightGBM`  
-🥽 **XR / Graphics:** `WebXR` `Three.js` `React Three Fiber`  
-⚡ **Backend / API:** `FastAPI` `Django REST` `Flask` `Uvicorn`  
-🎨 **Frontend / DB:** `Next.js` `Redux` `TailwindCSS` `PostgreSQL`  
+From my first “Hello World” to designing intelligent systems, each step strengthened my commitment to solving complex problems through technology. I believe technology is not just about code or machines; it is about designing solutions that create real-world impact.
 
 ---
 
-### 🤝 Let's Connect
+## 🔬 Current Focus
 
-🕊️ My journey started with a pile of old computers in Madagascar; today, I build production-ready clinical tools. Let's collaborate on medical computer vision or immersive web interfaces.
+- 🤖 Artificial Intelligence (AI)
+- 🧠 Deep Learning
+- 🩺 Computer Vision for Healthcare
+- 🥽 Extended Reality (XR) & 3D Visualization
+- 📊 Research-driven system design
 
-💼 **[LinkedIn](https://linkedin.com/in/your-profile)** · 📬 **[Email Me](mailto:your.email@example.com)**
+I enjoy working at the intersection of research, engineering, and knowledge-sharing because I feel like innovation only grows when communities collaborate.
+
+---
+
+## 🌍 Vision
+
+> **Think forward.**
+
+I aim to build solutions that are not only technically strong, but meaningful tools that educate, empower, and improve lives accross our community.
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaborating on:
+- AI research projects  
+- XR & immersive technologies  
+- Healthcare technology solutions  
+- Open-source initiatives  
+
+Feel free to explore my repositories and reach out!
