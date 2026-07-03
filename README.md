@@ -4,7 +4,7 @@
 I started tinkering with old computers in Madagascar out of pure curiosity. Today, I build deep learning systems and 3D visualization tools that help clinicians explore medical images interactively—right in the browser.
 
 ## 🔍 What I'm working on
-- **GrayMatter** – 3D hippocampal segmentation & volumetric analysis pipeline (MONAI, PyTorch). 🥇 1st Place at INTELLECT Hackathon 2026.  
+- **GrayMatter** – 3D hippocampal segmentation & volumetric analysis pipeline (MONAI, PyTorch). 🥇 1st Place at I-ACE Hackaton 2026.  
 - **ILD-XR** – End-to-end WebXR platform for AI-assisted visualization of interstitial lung disease from thoracic CT scans.  
 - Research internship at CDTA, developing robust segmentation pipelines for lung and neurological imaging.
 
