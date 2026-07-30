@@ -3,7 +3,7 @@
 I grew up in Madagascar taking apart old computers just to see what made them tick.  
 That habit never really left, I still take systems apart, only now they involve medical images, deep learning models, and browsers that have to stay fast.
 
-I work on AI for medical imaging: training models that clinicians can actually use, and building the interfaces that let them inspect results in 3D — without leaving the browser.
+I work on AI for medical imaging: training models that clinicians can actually use, and building the interfaces that let them inspect results in 3D, without leaving the browser.
 
 ## Recent work
 
