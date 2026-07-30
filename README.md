@@ -1,17 +1,25 @@
-# Hi, I'm Romualdo Sebany 👋  
-**AI Research Intern | Medical Image Analysis & Extended Reality**
+# Romualdo SEBANY
 
-I started tinkering with old computers in Madagascar out of pure curiosity. Today, I build deep learning systems and 3D visualization tools that help clinicians explore medical images interactively—right in the browser.
+I grew up in Madagascar taking apart old computers just to see what made them tick.  
+That habit never really left, I still take systems apart, only now they involve medical images, deep learning models, and browsers that have to stay fast.
 
-## 🔍 What I'm working on
-- **GrayMatter** – 3D hippocampal segmentation & volumetric analysis pipeline (MONAI, PyTorch). 🥇 1st Place at I-ACE Hackaton 2026.  
-- **ILD-XR** – End-to-end WebXR platform for AI-assisted visualization of interstitial lung disease from thoracic CT scans.  
-- Research internship at CDTA, developing robust segmentation pipelines for lung and neurological imaging.
+I work on AI for medical imaging: training models that clinicians can actually use, and building the interfaces that let them inspect results in 3D — without leaving the browser.
 
-## 🧰 Tech Stack
-`PyTorch` `MONAI` `DICOM` `FastAPI` `WebXR` `Three.js` `React` `Next.js` `Django` `PostgreSQL` `Docker` `Python`
+## Recent work
 
-## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/romualdo-sebany/) – Let’s talk medical AI, XR, or open-source healthcare tools  
-- Email: [romualdosebany.contact@gmail.com](mailto:romualdosebany.contact@gmail.com)  
-- Feel free to explore my repositories and reach out for collaborations!
+**[GrayMatter](https://github.com/rsebany/GrayMatter)**  
+Open platform for hippocampal subregion segmentation (MONAI / PyTorch), with matched cross-validation and out-of-fold evaluation.  
+1st place, I-ACE Hackathon 2026.
+
+**ILD-XR**  
+WebXR decision-support platform for interstitial lung disease: 3D CT visualisation, AI-based screening, built end-to-end during my research internship at CDTA (Algiers).
+
+## Tools I reach for often
+
+PyTorch · MONAI · DICOM · FastAPI · Next.js · Three.js / WebXR · PostgreSQL · Docker
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/romualdo-sebany/) · [romualdosebany.contact@gmail.com](mailto:romualdosebany.contact@gmail.com)
+
+If something in the repos looks useful for your own work, feel free to open an issue or write — I’m happy to talk medical AI, XR, or open tooling for healthcare.
