@@ -20,6 +20,6 @@ PyTorch · MONAI · DICOM · FastAPI · Next.js · Three.js / WebXR · PostgreSQ
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/romualdo-sebany/) · [romualdosebany.contact@gmail.com](mailto:romualdosebany.contact@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/romualdo-sebany/) · [romualdosebany.contact@gmail.com](mailto:romualdosebany@gmail.com)
 
-If something in the repos looks useful for your own work, feel free to open an issue or write — I’m happy to talk medical AI, XR, or open tooling for healthcare.
+If something in the repos looks useful for your own work, feel free to open an issue or write, I’m happy to talk medical AI, XR, or open tooling for healthcare.
