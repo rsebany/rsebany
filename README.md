@@ -11,7 +11,7 @@ I work on AI for medical imaging: training models that clinicians can actually u
 Open platform for hippocampal subregion segmentation (MONAI / PyTorch), with matched cross-validation and out-of-fold evaluation.  
 1st place, I-ACE Hackathon 2026.
 
-**ILD-XR**  
+**[ILD-XR](https://github.com/rsebany/ILD-XR)** 
 WebXR decision-support platform for interstitial lung disease: 3D CT visualisation, AI-based screening, built end-to-end during my research internship at CDTA (Algiers).
 
 ## Tools I reach for often
