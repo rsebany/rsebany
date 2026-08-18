@@ -1,25 +1,21 @@
 # Romualdo SEBANY
 
-I grew up in Madagascar taking apart old computers just to see what made them tick.  
-That habit never really left, I still take systems apart, only now they involve medical images, deep learning models, and browsers that have to stay fast.
+I'm a computer science graduate from Madagascar, currently based in Algeria, interested in **deep learning for healthcare**.
 
-I work on AI for medical imaging: training models that clinicians can actually use, and building the interfaces that let them inspect results in 3D, without leaving the browser.
+I'm passionate about building medical AI systems that are not only accurate, but **rigorously evaluated, reproducible, and usable**. I particularly enjoy working at the intersection of **medical imaging, deep learning, and interactive visualization**, where models can be inspected rather than treated as black boxes.
 
-## Recent work
+## Selected Work
 
-**[GrayMatter](https://github.com/rsebany/GrayMatter)**  
-Open platform for hippocampal subregion segmentation (MONAI / PyTorch), with matched cross-validation and out-of-fold evaluation.  
-1st place, I-ACE Hackathon 2026.
+- **[GrayMatter](https://github.com/rsebany/GrayMatter)** — Open hippocampal segmentation platform with MONAI/PyTorch. 1st place, I-ACE Hackathon 2026.
+- **[ILD-XR](https://github.com/rsebany/ILD-XR)** — Deep learning pipeline for interstitial lung disease on CT with WebXR-based 3D visualization.
+- **[Tsiry](https://github.com/rsebany/Tsiry)** — Hospital queue and appointment management system localized in Malagasy for healthcare facilities in Madagascar.
 
-**[ILD-XR](https://github.com/rsebany/ILD-XR)** 
-WebXR decision-support platform for interstitial lung disease: 3D CT visualisation, AI-based screening, built end-to-end during my research internship at CDTA (Algiers).
+## Tech
 
-## Tools I reach for often
+PyTorch · MONAI · DICOM · FastAPI · Next.js · Three.js/WebXR · PostgreSQL · Docker
 
-PyTorch · MONAI · DICOM · FastAPI · Next.js · Three.js / WebXR · PostgreSQL · Docker
+## Connect
 
-## Contact
+[LinkedIn](https://www.linkedin.com/in/romualdo-sebany/) · [Email](mailto:romualdosebany@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/romualdo-sebany/) · [romualdosebany@gmail.com](mailto:romualdosebany@gmail.com)
-
-If something in the repos looks useful for your own work, feel free to open an issue or write, I’m happy to talk medical AI, XR, or open tooling for healthcare.
+Open to research collaborations and conversations around **medical AI, deep learning, medical imaging, and healthcare technology**.
