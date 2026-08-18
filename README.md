@@ -2,7 +2,7 @@
 
 I grew up in Madagascar taking apart old computers just to see what made them tick. That habit never really left. I still take systems apart, only now they involve medical images, deep learning models, and browsers that have to stay fast.
 
-I'm passionate about deep learning for health, particularly in building models that stay reliable under rigorous evaluation, and interfaces that let clinicians and researchers actually inspect what those models produce, not just trust a score.
+I'm passionate about deep learning for health, particularly about building models that remain reliable under rigorous evaluation and interfaces that let clinicians and researchers actually inspect their results not simply trust a score.
 
 ## Recent Work
 
