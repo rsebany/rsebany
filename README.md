@@ -1,14 +1,13 @@
 # Romualdo SEBANY
 
-I'm a computer science graduate from Madagascar, currently based in Algeria, interested in **deep learning for healthcare**.
+I grew up in Madagascar taking apart old computers just to see what made them tick. That habit never really left. I still take systems apart, only now they involve medical images, deep learning models, and browsers that have to stay fast.
 
-I'm passionate about building medical AI systems that are not only accurate, but **rigorously evaluated, reproducible, and usable**. I particularly enjoy working at the intersection of **medical imaging, deep learning, and interactive visualization**, where models can be inspected rather than treated as black boxes.
+I'm passionate about deep learning for health, particularly in building models that stay reliable under rigorous evaluation, and interfaces that let clinicians and researchers actually inspect what those models produce, not just trust a score.
 
-## Selected Work
+## Recent Work
 
-- **[GrayMatter](https://github.com/rsebany/GrayMatter)** — Open hippocampal segmentation platform with MONAI/PyTorch. 1st place, I-ACE Hackathon 2026.
-- **[ILD-XR](https://github.com/rsebany/ILD-XR)** — Deep learning pipeline for interstitial lung disease on CT with WebXR-based 3D visualization.
-- **[Tsiry](https://github.com/rsebany/Tsiry)** — Hospital queue and appointment management system localized in Malagasy for healthcare facilities in Madagascar.
+- **[GrayMatter](https://github.com/rsebany/GrayMatter)** : hippocampal segmentation platform with MONAI/PyTorch. 1st place, I-ACE Hackathon 2026.
+- **[ILD-XR](https://github.com/rsebany/ILD-XR)** : Deep learning pipeline for interstitial lung disease on CT with WebXR-based 3D visualization.
 
 ## Tech
 
@@ -18,4 +17,4 @@ PyTorch · MONAI · DICOM · FastAPI · Next.js · Three.js/WebXR · PostgreSQL 
 
 [LinkedIn](https://www.linkedin.com/in/romualdo-sebany/) · [Email](mailto:romualdosebany@gmail.com)
 
-Open to research collaborations and conversations around **medical AI, deep learning, medical imaging, and healthcare technology**.
+Open to research collaborations and conversations around **medical AI, deep learning and healthcare technology**.
